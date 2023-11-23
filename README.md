@@ -10,6 +10,7 @@ También quedará definida la lista que representará a cada partido político, 
 ## Tabla de Contenidos
 - [Instalación](#instalación)
 - [Uso](#uso)
+- [Video](#video)
 
 ## Instalación
 Pasos para instalar o configurar el proyecto.
@@ -28,4 +29,7 @@ pip install branca
 
 ## Uso
 Mediante el archivo Elecciones Paso 2023 - v1 podras ver el analisis
+
+## Video
+Podes ver en este link el video https://drive.google.com/file/d/1XIor1chLXYP9TmvG8u6M1k9iSxzGXxKr/view?usp=sharing
 
